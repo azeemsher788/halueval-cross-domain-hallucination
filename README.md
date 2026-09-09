@@ -49,7 +49,7 @@ This demonstrates that lightweight features transfer almost perfectly across ent
 
 ### ROC Curves
 
-![Cross-Domain ROC Curves](figures/roc_curves.png)
+![Cross-Domain ROC Curves](https://raw.githubusercontent.com/azeemsher788/halueval-cross-domain-hallucination/main/figures/roc_curves.png)
 
 ---
 
