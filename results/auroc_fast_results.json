@@ -1,0 +1,87 @@
+{
+  "F1_CosSim (faithful)": {
+    "qa": {
+      "qa": 0.801,
+      "dialogue": 0.669,
+      "summarization": 0.582
+    },
+    "dialogue": {
+      "qa": 0.801,
+      "dialogue": 0.669,
+      "summarization": 0.582
+    },
+    "summarization": {
+      "qa": 0.801,
+      "dialogue": 0.669,
+      "summarization": 0.582
+    }
+  },
+  "F2_Length": {
+    "qa": {
+      "qa": 0.985,
+      "dialogue": 0.72,
+      "summarization": 0.846
+    },
+    "dialogue": {
+      "qa": 0.985,
+      "dialogue": 0.72,
+      "summarization": 0.852
+    },
+    "summarization": {
+      "qa": 0.985,
+      "dialogue": 0.72,
+      "summarization": 0.852
+    }
+  },
+  "F3_WordOverlap": {
+    "qa": {
+      "qa": 0.895,
+      "dialogue": 0.643,
+      "summarization": 0.594
+    },
+    "dialogue": {
+      "qa": 0.895,
+      "dialogue": 0.643,
+      "summarization": 0.594
+    },
+    "summarization": {
+      "qa": 0.895,
+      "dialogue": 0.643,
+      "summarization": 0.594
+    }
+  },
+  "F4_UniqueRatio": {
+    "qa": {
+      "qa": 0.652,
+      "dialogue": 0.584,
+      "summarization": 0.711
+    },
+    "dialogue": {
+      "qa": 0.652,
+      "dialogue": 0.584,
+      "summarization": 0.711
+    },
+    "summarization": {
+      "qa": 0.652,
+      "dialogue": 0.584,
+      "summarization": 0.711
+    }
+  },
+  "F_ALL (combo)": {
+    "qa": {
+      "qa": 0.983,
+      "dialogue": 0.721,
+      "summarization": 0.85
+    },
+    "dialogue": {
+      "qa": 0.939,
+      "dialogue": 0.734,
+      "summarization": 0.847
+    },
+    "summarization": {
+      "qa": 0.938,
+      "dialogue": 0.727,
+      "summarization": 0.852
+    }
+  }
+}
